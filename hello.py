@@ -9,5 +9,7 @@ def main():
     for i in range(5):
         print("Another line")
 
+def adios():
+    print("Adios")
 
 main()
