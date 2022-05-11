@@ -16,3 +16,4 @@ def adios():
     print("Adios")
 
 main()
+test_gil()
