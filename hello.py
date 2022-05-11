@@ -17,3 +17,4 @@ def adios():
 
 main()
 test_gil()
+adios()
